@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-### Estudiante de ASIR
+Estudiando Master Ingeniería Multicloud y DevOps en Tajamar.
 

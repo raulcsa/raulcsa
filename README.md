@@ -13,7 +13,7 @@ Actualmente me encuentro ampliando mi especialización tecnológica y construyen
 ### Certificaciones Oficiales
 * **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 * **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
-* **AWS Certified: AWS Solutions Architect – Associate (SAA-C03) **
+* **AWS Certified: AWS Solutions Architect – Associate (SAA-C03)**
 
 ### Stack Tecnológico
 * **Cloud & Seguridad:** Azure, AWS.**

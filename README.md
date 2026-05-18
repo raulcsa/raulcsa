@@ -14,13 +14,14 @@ Actualmente me encuentro ampliando mi especialización tecnológica y construyen
 * **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 * **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
 * **AWS Certified: AWS Solutions Architect – Associate (SAA-C03)**
+* **Github Actions**
 
 ### Stack Tecnológico
-* **Cloud & Seguridad:** Azure, AWS.**
+* **Cloud & Seguridad:** Azure, AWS.
 * **DevOps & Contenedores:** Docker, Kubernetes, Ansible, Terraform, Git.
 * **Sistemas:** Windows Server, Linux.
 * **Bases de Datos:** MySQL/MariaDB, PostgreSQL.
-* **Scripting:**Bash.
+* **Scripting:** Bash.
 
 ---
 **Contacto:** [raulcasadosanandres1@gmail.com](mailto:raulcasadosanandres1@gmail.com) | Madrid, España
